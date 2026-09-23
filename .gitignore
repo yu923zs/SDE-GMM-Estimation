@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pkl
+*.pickle
+
+# 运行产物（重新跑会生成，不上传）
+results*/
+checkpoints*/
+
+# 系统
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
