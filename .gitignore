@@ -4,9 +4,14 @@ __pycache__/
 *.pkl
 *.pickle
 
-# 运行产物（重新跑会生成，不上传）
-results*/
-checkpoints*/
+# 运行产物（src/ 下的中间文件，不提交；预计算结果在 results/ 下）
+src/vix_stage1.json
+src/rolling_ckpt.json
+src/vix_results.json
+src/mc_results.json
+src/se_vix.json
+src/j_test.json
+src/sens_grid.json
 
 # 系统
 .DS_Store

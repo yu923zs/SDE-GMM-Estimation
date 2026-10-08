@@ -9,4 +9,4 @@ COPY . .
 
 WORKDIR /app/src
 
-CMD ["python", "pc-cf-iargmm-数值模拟_stage3_final.py"]
+CMD ["bash"]
