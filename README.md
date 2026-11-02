@@ -1,5 +1,12 @@
 # Robust CF-GMM Estimation for CTS-OU Models
 
+> **Authorship note.** Companion code for the paper below, produced during my
+> master's studies. The code was written and debugged with the assistance of AI
+> coding tools; my own contributions are the study design, estimator
+> specification, parameter choices, validation of the reported results, and
+> manuscript writing. The pre-computed outputs in `results/` are the ones used
+> in the paper.
+
 Companion code for the paper:
 
 "Robust characteristic-function GMM estimation of classical tempered stable
